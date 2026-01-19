@@ -58,6 +58,6 @@ jupyter notebook Logistic.ipynb
 
 👤 Author
 
-Ariyan Shaikh
-BSc IT | Data Science Enthusiast
+Ariyan Shaikh  
+BSc IT | Data Science Enthusiast  
 GitHub: https://github.com/Ariyansk-gh
