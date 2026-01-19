@@ -4,8 +4,7 @@ Project Overview :
 This project demonstrates the implementation of Logistic Regression for solving a classification problem using Python and Scikit-Learn.
 The objective is to predict the target class based on multiple input features after proper preprocessing and evaluation.
 
-📂 Dataset
-
+# 📂 Dataset
 Source: (Kaggle / UCI / Custom dataset – mention your source)
 
 Number of records: XXXX
